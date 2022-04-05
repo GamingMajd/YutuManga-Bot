@@ -1,0 +1,22 @@
+{
+  "name": "yurumanga",
+  "version": "1.0.0",
+  "description": "YuruManga Bot",
+  "main": "index.js",
+  "private": true,
+  "engines": {
+    "node": ">=16.14.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Majd Tqe <GamingMajd#8929>",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "moment": "2.29.2",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "license": "ISC"
+}
