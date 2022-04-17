@@ -1,6 +1,6 @@
 {
   "name": "yurumanga",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "YuruManga Bot",
   "main": "index.js",
   "private": true,
@@ -12,11 +12,25 @@
   },
   "author": "Majd Tqe <GamingMajd#8929>",
   "dependencies": {
+    "discord-reaction-role": "^2.1.0",
     "discord.js": "^12.5.3",
+    "express": "^4.17.3",
+    "fs": "0.0.1-security",
     "moment": "2.29.2",
-    "fs": "0.0.1-security"
+    "node-fetch": "^3.2.3",
+    "npm": "^8.6.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "node": "^16.14.2"
+  },
   "keywords": [],
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GamingMajd/YutuManga-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GamingMajd/YutuManga-Bot/issues"
+  },
+  "homepage": "https://github.com/GamingMajd/YutuManga-Bot#readme"
 }
