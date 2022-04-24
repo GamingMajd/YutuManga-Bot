@@ -1,30 +1,20 @@
 {
-  "name": "yurumanga",
-  "version": "1.1.0",
-  "description": "YuruManga Bot",
+  "name": "welcome",
+  "version": "1.0.0",
+  "description": "[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)\r [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Tomato6966/)\r [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Tomato6966/Ask-Me-Anything)\r [![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/fS6qBSm)",
   "main": "index.js",
-  "private": true,
-  "engines": {
-    "node": ">=16.14.2"
-  },
-  "scripts": {
-    "start": "node index.js"
-  },
-  "author": "Majd Tqe <GamingMajd#8929>",
   "dependencies": {
-    "discord-reaction-role": "^2.1.0",
-    "discord.js": "^12.5.3",
+    "canvas": "^2.6.1",
+    "discord.js": "^12.4.1",
     "express": "^4.17.3",
-    "fs": "0.0.1-security",
-    "moment": "2.29.2",
-    "node-fetch": "^3.2.3",
-    "npm": "^8.6.0"
+    "node.js": "^0.0.1-security"
   },
-  "devDependencies": {
-    "node": "^16.14.2"
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "license": "ISC",
+  "author": "Tomato#6966",
+  "license": "GPL-3.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/GamingMajd/YutuManga-Bot.git"
